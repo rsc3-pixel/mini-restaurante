@@ -3,12 +3,18 @@ body {
     background: #b4daf3;
 }
 
+td, th {
+    padding: 20px;
+}
+
 .botao-nav {
     text-decoration: none;
     background: #008080;
     padding: 10px;
     border-radius: 4px ;
     color: #b4daf3;
+    height: 20px;
+    margin-top: 25%;
     
 }
 
@@ -16,4 +22,8 @@ nav {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
+}
+
+.produto {
+    border-radius: 4px;
 }
