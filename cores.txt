@@ -1,0 +1,15 @@
+Cores principais:
+
+Azul Escuro (Fundo): #001F3F
+
+Laranja (Pão/Submarino): #FF8C00
+
+Verde Água (Detalhes): #008080
+
+Verde Neon (Bioluminescência): #39FF14
+
+Azul Elétrico (Linhas de tecnologia): #00BFFF
+
+Cinza Escuro (Sombras/Contorno): #36454F
+
+Branco (Brilhos/Destaques): #FFFFFF
